@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Doom Style game.vcxproj" Id="e41bcd41-e166-41e3-97ee-9bae5892e751" />
+</Solution>
